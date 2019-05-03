@@ -4,11 +4,12 @@ h1{
     text-align: center;
     color: whitesmoke;
 }
+
 body{
     text-align:  center; 
     background-color: midnightblue; 
 }
 
 #results{
-border-style: ridge 4px;
+    border-style: ridge 4px;
 }
